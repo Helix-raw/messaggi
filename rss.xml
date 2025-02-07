@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+    <title>Messaggi Crociati</title>
+    <link>http://www.benhellis.com/</link>
+    <atom:link href="https://helix-raw.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <description>Messaggi crociati</description>
+
+    <item>
+        <title>Questo è un pulsante con il link, se clicchi sulla freccia c'è un messaggio crociato per te.</title>
+        <link>https://telegra.ph/Come-tombini-sotto-lasfalto-01-22</link>
+        <guid isPermaLink="true">https://telegra.ph/Come-tombini-sotto-lasfalto-01-22</guid>
+        <pubDate>Fri, 02 Feb 2024 15:29:00 GMT</pubDate>
+        <description>Prova del messaggio crociato</description>
+    </item>
+
+    <item>
+        <title>Altro messaggio di prova</title>
+        <link>https://benhellis.org</link>
+        <guid isPermaLink="true">https://esempio.com/2</guid>
+        <pubDate>thu, 6 feb 2025 13:20:00 GMT</pubDate>
+        <description>Altro messaggio</description>
+    </item>
+
+    <item>
+        <title>Altra roba</title>
+        <link>https://esempio.com/1</link>
+        <guid isPermaLink="true">https://esempio.com/1</guid>
+        <pubDate>Mon, fri feb 2025 13:20:00 GMT</pubDate>
+        <description>Il mio primo articolo.</description>
+    </item>
+</channel>
+</rss>
