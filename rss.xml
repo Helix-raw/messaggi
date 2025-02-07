@@ -3,7 +3,7 @@
 <channel>
     <title>Messaggi Crociati</title>
     <link>http://www.benhellis.com/</link>
-    <atom:link href="https://helix-raw.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://helix-raw.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <description>Messaggi crociati</description>
 
     <item>
